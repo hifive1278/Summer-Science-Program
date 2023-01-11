@@ -1,4 +1,5 @@
-# Summer-Science-Program
+# Summer Science Program (SSP)
+# Summer of 2021
 
 Specific research contributions: Program the Method of Gauss formula (Python) and animate asteroid orbit (using VPython); 
 reduce observing images using SAOImageDS9/AstroImageJ and determine asteroid's equatorial coordinates and R-band magnitude; 
