@@ -1,3 +1,5 @@
+#Orbit of only our calculated asteroid
+
 from vpython import vector, sphere, curve, rate, color
 from math import radians, sin, cos, sqrt, pi
 import numpy as np
