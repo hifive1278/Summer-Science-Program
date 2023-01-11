@@ -20,6 +20,3 @@ while abs(currE - lastE) > maxError:
     
 print(currE)
 print(count)
-
-# The convergence of e changes with M. 
-# I have not yet been able to identify a pattern for predicting the maximum e for convergence
