@@ -1,7 +1,3 @@
-# SSP 2021 Python pset 2
-# NAME
-# DATE
-
 from math import asin, acos, cos, pi, sin
 
 # a function to determine the quadrant of an angle based on its sine and cosine (in radians)
